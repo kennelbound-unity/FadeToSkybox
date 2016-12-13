@@ -1,0 +1,7 @@
+{
+  "name": "FadeToSkybox",
+  "export": "Assets",
+  "dependencies": [
+    "local/StandardAssetsEffects"
+  ]
+}
